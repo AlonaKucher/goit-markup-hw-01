@@ -12,6 +12,7 @@
         line-height: 31px;
         letter-spacing: 0.03em;
         color: #2196F3;
+        text-decoration: none;
         
 }
 .studio{
@@ -115,22 +116,14 @@ position: absolute;
     color: #FFFFFF;
 }
 .request{
-    position: absolute;
-        width: 161px;
-        height: 30px;
-        left: 720px;
-        top: 440px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 16px;
-        line-height: 30px;
-        display: flex;
-        align-items: center;
-        text-align: center;
-        letter-spacing: 0.06em;
-        color: #FFFFFF;
-        text-decoration: none;
+position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 700px;
+    top: 430px;
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px
 }
 .text-2{
 position: absolute;
@@ -315,16 +308,7 @@ position: absolute;
         background: url(.jpg);
         border-radius: 0px;
 }
-.li1{
-    position: absolute;
-        width: 270px;
-        height: 368px;
-        left: 215px;
-        top: 1635px;
-        background: #FFFFFF;
-        box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
-        border-radius: 0px 0px 4px 4px;
-}
+
 .name1{
     position: absolute;
         width: 151px;
